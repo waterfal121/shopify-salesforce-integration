@@ -1,3 +1,3 @@
 # Shopify to Salesforce Data Sync PoC
 
-This project tests integration of Shopify Webhook and Salesforce API.
+Proof of concept for integrating Shopify and Salesforce to achieve bidirectional data synchronization, using Shopify Webhooks, Admin API, and Salesforce API.
